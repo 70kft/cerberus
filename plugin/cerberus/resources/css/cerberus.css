@@ -1,0 +1,51 @@
+.cerberusSettings h2,
+.cerberusSettings h3 {
+  color: #444;
+}
+.cerberusSettings h3.glyph {
+  padding-left: 32px;
+  line-height: 32px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+.cerberusSettings h3.general {
+  background-image: url(../img/general.png);
+}
+.cerberusSettings h3.uuid {
+  background-image: url(../img/uuid.png);
+}
+.cerberusSettings h3.hubspot {
+  background-image: url(../img/hubspot.png);
+}
+.cerberusSettings h3.thirdparty {
+  background-image: url(../img/thirdparty.png);
+}
+.cerberusSettings h3.settings {
+  background-image: url(../img/settings.png);
+}
+.cerberusSubtle {
+  color: #bbb;
+}
+.cerberusNotice {
+  color: #aaa;
+  font-family: serif;
+  font-style: italic;
+}
+.cerberusSection {
+  margin: 20px 0;
+  padding: 20px 0;
+  border-top: 1px dotted #ddd;
+}
+.cerberusGrid td.typewriter {
+  font-size: 12px;
+  font-family: monospace;
+}
+.cerberusActionSet {
+  margin: 40px 0;
+}
+.cerberusSpam td {
+  color: #d00;
+}
+.introvert {
+  color: #999;
+}
